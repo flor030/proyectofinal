@@ -1,0 +1,11 @@
+[
+    {"nombre":"Macarrones cremosos con champiñones", "precio":22, "id":1},
+    {"nombre":"Croquetas de pescado", "precio":50, "id":2},
+    {"nombre":"Risotto de Berenjena y puerro", "precio":150, "id":3},
+    {"nombre":"Crema fria de puerro", "precio": 120, "id":4},
+    {"nombre":"Barquillos de pavo y espinacas", "precio":70, "id":5},
+    {"nombre":"Crema de calabacin", "precio":180, "id":6},
+    {"nombre":"Helado de chocolate y platano", "precio":30, "id":7},
+    {"nombre":"Bizcocho de leche", "precio":80, "id":8},
+    {"nombre":"Canelones de ternera", "precio":300, "id":9}
+]
